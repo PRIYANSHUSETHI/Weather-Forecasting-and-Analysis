@@ -112,37 +112,4 @@ These help gauge the model's performance on historical data.
 ├── weather_forecasting.py       # Main script
 ├── DailyDelhiClimateTrain.csv   # Dataset (make sure it's in the same directory)
 ├── README.md                    # Project documentation
-└── requirements.txt             # Python dependencies
-```
 
----
-
-## 📌 Requirements
-
-Create a `requirements.txt` like this:
-
-```txt
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scipy
-statsmodels
-prophet
-scikit-learn
-```
-
----
-
-## ✨ Visual Highlights
-
-*(Add image links if available or generated)*
-
----
-
-## 📬 Contact
-
-For questions or suggestions:
-- 📧 your.email@example.com
-- 🐦 [@yourhandle](https://twitter.com/yourhandle)
